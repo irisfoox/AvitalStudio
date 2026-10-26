@@ -1,0 +1,10 @@
+{
+  "name": "studio-avital",
+  "version": "1.0.0",
+  "scripts": {
+    "predev": "cd client && npm install",
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm install && npm run build",
+    "preview": "cd client && npm run preview"
+  }
+}
